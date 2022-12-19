@@ -1,6 +1,6 @@
 ### Hi, I'm Tarik 👋 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://www.buymeacoffee.com/tarikidrissi)
 
 I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm a **Matser's degree in UIT** and currently a **AI and VR Scientist**.
 
