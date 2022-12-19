@@ -1,27 +1,24 @@
 ### Hi, I'm Thi 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com/notes)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
+I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm a **Matser's degree in UIT** and currently a **AI and VR Scientist**.
 
 - 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
-- 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
-- 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
+- 👯 I’m looking to collaborate on Web Development Related Projects using AI **
+- ⚡ Fun fact: I love listening to music, playing video games.
+- 💌 Contact me at [tariktsid15@gmail.com](mailto:tariktsid15@gmail.com).
 
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/notes#web_development)
-    [![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)](https://dinhanhthi.com/notes)
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/notes#web_development)
-    [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)](https://dinhanhthi.com/notes#r)
-    [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)](https://dinhanhthi.com/notes#web_development)
-    [![FreeFEM++](http://img.shields.io/badge/-FreeFEM++-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA81BMVEUAAP8AAAAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP/////77TmdAAAAT3RSTlMAAAUXGEvS1MgtguAdA6jAZ2il0LZqZGVVEsl9DRP+zyrk+r/ZuNjaikz27anGr/EQFgt21lrma2KjtwZ83+VhzZABsFheGlYrIlfHLBUCC7TStQAAAJ1JREFUeNolxwVihFAMRdE3LlDF3R3qRt29zf53MwTul+QA48mUm4wxGo2A2XzBLVcD19QniOC2tmlnd29fkhVV1XQYJlm2I5NLXR78IIziRKAgjeMsR1FWdXNwWBZHx9PpCU7pTByfuxeXVz66Wrq+wS3d3dMDRiM80hOeW3p5fXtnfmifsBuyADC5r4C+GR35rcyf314Dx5O//4EbrkgVZpD8mJYAAAAASUVORK5CYII=&logoColor=CC342D)](https://dinhanhthi.com/notes)
+    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]
+    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
+    [![C](https://img.shields.io/badge/-C-eee?style=flat-square&logo=c&logoColor=DD9C25)]
+    [![C++](https://img.shields.io/badge/-Cpp-eee?style=flat-square&logo=cpp&logoColor=DD9C25)]
+    [![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=DD9C25)]
+
 - Machine Learning / Deep Learning frameworks : <br />
     [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)](https://dinhanhthi.com/tags#tensorflow)
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)](https://dinhanhthi.com/notes#machine_learning)
@@ -53,11 +50,3 @@ Technologies I've been learning and using so far :
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags#bash)
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
     [![Sphinx](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
-
-
-More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
-
------
-Credits: [dinhanhthi](https://github.com/dinhanhthi)
-
-Last Edited on: 25/11/2020
