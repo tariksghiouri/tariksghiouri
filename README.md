@@ -1,5 +1,4 @@
-### Hi, I'm Thi 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
-
+### Hi, I'm Tarik 👋 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
 
 I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm a **Matser's degree in UIT** and currently a **AI and VR Scientist**.
