@@ -4,9 +4,9 @@
 
 I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm currently a **Matser's degree Student at UIT (AI and VR)**.
 
-- 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
+- 🌱 I’m currently learning *AI,Machine Learning, Deep learning & Data Science* (and enjoying _Software Dev_).
 - 👯 I’m looking to collaborate on Web Development Related Projects using AI **
-- ⚡ Fun fact: I love listening to music, playing video games.
+- ⚡ Fun fact: I Do amateur photography,and I play video games.
 - 💌 Contact me at [tariktsid15@gmail.com](mailto:tariktsid15@gmail.com).
 
 Technologies I've been learning and using so far :
@@ -27,7 +27,7 @@ Technologies I've been learning and using so far :
 - Frontend : <br />
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/notes#web_development)
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags#react)
-    [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags#gatsbyjs)
+    [![Angular](https://img.shields.io/badge/-Angular-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags#react)
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/notes#web_development)
 - Backend : <br />
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/notes)
