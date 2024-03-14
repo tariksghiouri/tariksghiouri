@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff)](https://www.buymeacoffee.com/tarikidrissi)
 
-I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm currently a **Matser's degree Student at UIT (AI and VR)**.
+I'm a Moroccan guy who has a curious mind. I'd like to learn something new everyday. I'm currently a **Matser's degree Student at UIT in AI**.
 
 - 🌱 I’m currently learning *AI,Machine Learning, Deep learning & Data Science* (and enjoying _Software Dev_).
 - 👯 I’m looking to collaborate on Web Development Related Projects using AI **
