@@ -1,4 +1,4 @@
-### Hi, I'm Tarik 👋  this is my -> [portfolio]([docs/CONTRIBUTING.md](https://tariksghiouri.github.io/))
+### Hi, I'm Tarik 👋  this is my -> [portfolio](https://tariksghiouri.github.io/))
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff)](https://www.buymeacoffee.com/tarikidrissi)
