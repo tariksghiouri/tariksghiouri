@@ -1,5 +1,7 @@
 ### Hi, I'm Tarik 👋  this is my -> [portfolio](https://tariksghiouri.github.io/)
 
+
+[![](https://visitcount.itsvg.in/api?id=tariksghiouri&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-sghiouri-idrissi/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff)](https://www.buymeacoffee.com/tarikidrissi)
 [![🤗 Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-yellow)](https://huggingface.co/MatrixIA)
